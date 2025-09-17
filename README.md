@@ -1,6 +1,6 @@
 # Indian Language Text & Voice Dataset Generator
 
-This repository provides a simple pipeline to generate parallel text and voice datasets in 12 Indian languages for testing machine learning models, speech synthesis, and translation systems.
+This repository provides a simple pipeline to generate text and voice datasets in 12 Indian languages for testing machine learning models, speech synthesis, and translation systems.
 
 ## Supported Languages
 - Bengali (`bn`)
